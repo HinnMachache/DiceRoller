@@ -18,6 +18,7 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
+        vectorDrawables.useSupportLibrary = true
     }
 
     buildTypes {
